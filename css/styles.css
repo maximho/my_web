@@ -1,0 +1,9 @@
+.jumbotron {
+	background-image: url("../img/child_nighmare.jpg");
+	/*background-size: cover;*/
+}
+
+p {
+	color: black;
+}
+
